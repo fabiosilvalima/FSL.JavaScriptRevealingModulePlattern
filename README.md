@@ -4,6 +4,8 @@
 
 If you wrote javascript code your entire life using a javascript file with a lot of methods inside... stop! Learn how Revealing Module Pattern helps you to separate and organize your code.
 
+![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/javascript.png)
+
 Revealing Module Pattern means you must have a **Module** (like container or "class") that encapsulates all your methods and **Reveal** just what you want.
 
 ```javascript
